@@ -17,3 +17,18 @@ Silahkan berkontribusi rekan rekan
 6. git push origin <nama-branch-baru-yang-telah-dibuat-sebelumnya>
 
 Happy Code!
+
+## 🤝 Contributing
+
+Pull requests are welcome! Untuk perubahan besar, silakan buka issue terlebih dahulu.
+
+## 👤 Author
+
+**Your Name**
+- GitHub: [@zal-ghiffari](https://github.com/zal-ghiffari)
+
+⭐ **Jika project ini membantu, jangan lupa kasih star!**
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zal-ghiffari/postgresql-solr-importer&type=Date)](https://star-history.com/#zal-ghiffari/postgresql-solr-importer&Date)
