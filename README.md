@@ -31,4 +31,4 @@ Pull requests are welcome! Untuk perubahan besar, silakan buka issue terlebih da
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zal-ghiffari/postgresql-solr-importer&type=Date)](https://star-history.com/#zal-ghiffari/postgresql-solr-importer&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=zal-ghiffari/Arena-Code&type=Date)](https://star-history.com/#zal-ghiffari/Arena-Code&Date)
